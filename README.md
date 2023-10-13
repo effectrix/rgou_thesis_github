@@ -1,4 +1,4 @@
-## Royal game of Ur - made in Godot Engine
+## Royal game of Ur - made in Godot Engine in 2020
 
 A simple 3D game made for Android. Made in Godot Engine for a master's thesis at the Faculty of Graphic Arts in Croatia.
 <a href="https://eprints.grf.unizg.hr/3284/">Link to the thesis</a>
