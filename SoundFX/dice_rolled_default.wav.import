@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/dice_rolled_default.wav-b9d5cdf640a1a62b99cb9d119524b7fb.sample"
+
+[deps]
+
+source_file="res://SoundFX/dice_rolled_default.wav"
+dest_files=[ "res://.import/dice_rolled_default.wav-b9d5cdf640a1a62b99cb9d119524b7fb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

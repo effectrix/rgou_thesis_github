@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piece_move_slow.wav-63b09df4a0ddff13c541c95c20c5ae4b.sample"
+
+[deps]
+
+source_file="res://SoundFX/piece_move_slow.wav"
+dest_files=[ "res://.import/piece_move_slow.wav-63b09df4a0ddff13c541c95c20c5ae4b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

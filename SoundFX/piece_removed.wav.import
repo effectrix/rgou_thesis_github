@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piece_removed.wav-40cd4cfcb43308f076060402fabe63ca.sample"
+
+[deps]
+
+source_file="res://SoundFX/piece_removed.wav"
+dest_files=[ "res://.import/piece_removed.wav-40cd4cfcb43308f076060402fabe63ca.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
